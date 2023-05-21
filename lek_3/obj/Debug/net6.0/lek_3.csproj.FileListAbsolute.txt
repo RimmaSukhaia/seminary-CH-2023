@@ -1,0 +1,15 @@
+/Users/air/Desktop/C#_23/lek_3/bin/Debug/net6.0/lek_3
+/Users/air/Desktop/C#_23/lek_3/bin/Debug/net6.0/lek_3.deps.json
+/Users/air/Desktop/C#_23/lek_3/bin/Debug/net6.0/lek_3.runtimeconfig.json
+/Users/air/Desktop/C#_23/lek_3/bin/Debug/net6.0/lek_3.dll
+/Users/air/Desktop/C#_23/lek_3/bin/Debug/net6.0/lek_3.pdb
+/Users/air/Desktop/C#_23/lek_3/obj/Debug/net6.0/lek_3.csproj.AssemblyReference.cache
+/Users/air/Desktop/C#_23/lek_3/obj/Debug/net6.0/lek_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/air/Desktop/C#_23/lek_3/obj/Debug/net6.0/lek_3.AssemblyInfoInputs.cache
+/Users/air/Desktop/C#_23/lek_3/obj/Debug/net6.0/lek_3.AssemblyInfo.cs
+/Users/air/Desktop/C#_23/lek_3/obj/Debug/net6.0/lek_3.csproj.CoreCompileInputs.cache
+/Users/air/Desktop/C#_23/lek_3/obj/Debug/net6.0/lek_3.dll
+/Users/air/Desktop/C#_23/lek_3/obj/Debug/net6.0/refint/lek_3.dll
+/Users/air/Desktop/C#_23/lek_3/obj/Debug/net6.0/lek_3.pdb
+/Users/air/Desktop/C#_23/lek_3/obj/Debug/net6.0/lek_3.genruntimeconfig.cache
+/Users/air/Desktop/C#_23/lek_3/obj/Debug/net6.0/ref/lek_3.dll

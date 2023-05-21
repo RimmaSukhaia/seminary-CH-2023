@@ -1,0 +1,15 @@
+/Users/air/Desktop/C#_23/seminar_1/dz_1/bin/Debug/net6.0/dz_1
+/Users/air/Desktop/C#_23/seminar_1/dz_1/bin/Debug/net6.0/dz_1.deps.json
+/Users/air/Desktop/C#_23/seminar_1/dz_1/bin/Debug/net6.0/dz_1.runtimeconfig.json
+/Users/air/Desktop/C#_23/seminar_1/dz_1/bin/Debug/net6.0/dz_1.dll
+/Users/air/Desktop/C#_23/seminar_1/dz_1/bin/Debug/net6.0/dz_1.pdb
+/Users/air/Desktop/C#_23/seminar_1/dz_1/obj/Debug/net6.0/dz_1.csproj.AssemblyReference.cache
+/Users/air/Desktop/C#_23/seminar_1/dz_1/obj/Debug/net6.0/dz_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/air/Desktop/C#_23/seminar_1/dz_1/obj/Debug/net6.0/dz_1.AssemblyInfoInputs.cache
+/Users/air/Desktop/C#_23/seminar_1/dz_1/obj/Debug/net6.0/dz_1.AssemblyInfo.cs
+/Users/air/Desktop/C#_23/seminar_1/dz_1/obj/Debug/net6.0/dz_1.csproj.CoreCompileInputs.cache
+/Users/air/Desktop/C#_23/seminar_1/dz_1/obj/Debug/net6.0/dz_1.dll
+/Users/air/Desktop/C#_23/seminar_1/dz_1/obj/Debug/net6.0/refint/dz_1.dll
+/Users/air/Desktop/C#_23/seminar_1/dz_1/obj/Debug/net6.0/dz_1.pdb
+/Users/air/Desktop/C#_23/seminar_1/dz_1/obj/Debug/net6.0/dz_1.genruntimeconfig.cache
+/Users/air/Desktop/C#_23/seminar_1/dz_1/obj/Debug/net6.0/ref/dz_1.dll
